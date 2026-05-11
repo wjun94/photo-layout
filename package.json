@@ -1,0 +1,16 @@
+{
+  "name": "photo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^13.0.6",
+    "pdf-lib": "^1.17.1",
+    "sharp": "^0.34.5"
+  }
+}
